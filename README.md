@@ -26,4 +26,3 @@ jupyter notebook Project.ipynb
 | File | Description | 
 | Project.ipynb | Main notebook with code and analysis | 
 | boston_housing_clean.csv | Preprocessed dataset | 
-
